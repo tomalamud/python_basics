@@ -1,0 +1,30 @@
+# Where is the documentation?
+https://docs.python.org/3/
+
+# How to manage the styles in python?
+https://www.python.org/dev/peps/pep-0008/
+
+# What is a virtual enviroment?
+An enviroment to manage the  modules wich we work with.
+
+# Create a virtual enviroment:
+>>> py -m venv venv_name
+   from mod x name
+
+# Activate a virtual enviroment: 
+· windows: 
+>>> venv_name/Scripts/activate
+· Unix:
+>>> source venv_name/bin/activate 
+# Deactivate:
+>>> deactivate
+
+# PIP (package installer for python)
+>>> pip install x
+
+# How can I share my proyects?
+>>> pip freeze > requirements.txt
+>>> pip install -r requirements.txt
+
+# Advanced import techniques:
+https://realpython.com/python-import/

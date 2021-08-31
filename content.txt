@@ -1,0 +1,9 @@
+· Listas y diccionarios anidados
+> Se pueden meter unos adentro de otros
+
+· List (and dict) comprehensions
+> Forma de crear nueva Listas
+
+· Lambda (f(x) anónimas)
+> Sólo una línea de código
+> No se usa return
